@@ -2,4 +2,5 @@
 const value = 2
 while true
   if value > 1
-    value+
+    value++
+//I fixed the syntax
