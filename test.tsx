@@ -1,3 +1,5 @@
+const youwon();
+  console.log("something happened");
 // WHat even is this
 const value = 2
 while true
@@ -5,4 +7,4 @@ while true
     value+
 if value == 1
   Youwon();
-//I broke the syntax
+//added youwon
