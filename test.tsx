@@ -2,5 +2,7 @@
 const value = 2
 while true
   if value > 1
-    value++
-//I fixed the syntax
+    value+
+if value == 1
+  Youwon();
+//I broke the syntax
